@@ -1,14 +1,5 @@
 # FIVEM
 
-
-#Englisch: FivemServer Installer only linux!
-
-#German: FivemServer Installer nur Linux!
-```
-bash <(curl -s https://raw.githubusercontent.com/Schwarzerteddydev/FivemServerInstaller/main/FivemServerInstaller.sh)
-```
----------------------------------------------------------------------------------------------------------------------------
-
 #Englisch: Start server whit server reboot only linux!
 
 #German: Starten Sie den Server mit dem Neustart des Servers nur unter Linux!
