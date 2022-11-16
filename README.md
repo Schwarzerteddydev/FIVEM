@@ -1,9 +1,17 @@
 # FIVEM
 
+#Englisch: FivemServer Installer only linux!
+
+#German: FivemServer Installer nur Linux!
+#KOPIEREN 
+```
+bash <(curl -s https://raw.githubusercontent.com/Schwarzerteddydev/FivemServerInstaller/main/FivemServerInstaller.sh)
+```
+---------------------------------------------------------------------------------------------------------------------------
+
 #Englisch: Start server whit server reboot only linux!
 
 #German: Starten Sie den Server mit dem Neustart des Servers nur unter Linux!
-
 #KOPIEREN 
 ```
 bash <(curl -s https://raw.githubusercontent.com/Schwarzerteddydev/FivemServerInstaller/main/rebootautostart.sh)
@@ -25,9 +33,26 @@ datenbank Installieren
 
 #Englisch: 
 database Install
-
 #KOPIEREN 
 ```
 bash <(curl -s https://raw.githubusercontent.com/Schwarzerteddydev/phpmyadmininstaller/main/phpmyadminAutoInstaller.sh)
 ```
-#wen man fertig ist findet man die login daten unter dem pfad /root/phpmyadmin-data.txt
+
+
+
+
+#German: 
+datenbank Installieren 
+
+#Englisch: 
+database Install
+
+#KOPIEREN 
+
+wen man fertig ist findet man die login daten unter dem pfad /root/phpmyadmin-data.txt
+
+install
+```
+bash <(curl -s https://raw.githubusercontent.com/Schwarzerteddydev/phpmyadmininstaller/main/phpmyadminAutoInstaller.sh)
+```
+
